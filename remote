@@ -1,0 +1,10 @@
+    4  git add *
+    5  ls
+    6  ls -A
+    7  git commit -m "Shell"
+    8  git config --global user.email "sreyasvarma123@gmail.com"
+    9  git config --global user.name "Sreyas"
+   10  git commit -m "Shell"
+   11  git branch -M main
+   12  git remote add origin https://github.com/sreyasvarma/shell.git
+   13  git push -u origin main
